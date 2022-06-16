@@ -28,7 +28,7 @@ public class SwaggerConfig {
 				.contact(new Contact()
 					.name("Fabyola Campos")
 					.url("https://github.com/fabyolafc")
-					.email("fabyolacampos20@gmail.com")))
+					.email("fabyycmp@gmail.com")))
 				.externalDocs(new ExternalDocumentation()
 					.description("Github")
 					.url("https://github.com/fabyolafc/"));
